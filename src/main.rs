@@ -55,10 +55,10 @@ let (mut real_min, mut real_max): (i32 ,i32);
     println!("");
 
     if random_number == real_min {
-        println("hey, your minimum value is equal to the randomly generated number :)")
+        println!("hey, your minimum value is equal to the randomly generated number :)")
     }
 
     else if random_number == real_max {
-        println("hey, your maximum value is equal to the randomly generated number :)")
+        println!("hey, your maximum value is equal to the randomly generated number :)")
     }
 }
