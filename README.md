@@ -1,4 +1,4 @@
-# Rust Guessing Game
+# Rust Random Number Generator
 
 A simple command-line number guessing game written in Rust.
 
@@ -22,4 +22,6 @@ A simple command-line number guessing game written in Rust.
    cd your-repo-name
 
 2. Run using cargo and the command
-                                 -cargo run
+     
+    ```bash
+    cargo run
